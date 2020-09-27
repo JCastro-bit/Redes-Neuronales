@@ -2,7 +2,7 @@
         <div class="section no-pad-bot">
             
         </div>
-        <div class="parallax"><img src="noticias-bg.jpg" alt="Foto de fuente de universidad Cuauhtémoc"></div>
+        <div class="parallax"><img src="img/noticias-bg.jpg" alt="Foto de fuente de universidad Cuauhtémoc"></div>
     </div>
 
     <footer class="page-footer teal">
@@ -36,6 +36,8 @@
 
 
     <!--  Scripts-->
+    <script src="js/red-neuronal.js"></script>
+    <script src="js/jscolor.js"></script>
     <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.js"></script>

@@ -7,7 +7,7 @@
     <title>Redes Neuronales - Javier Castro</title>
 
 
-    <link rel="shortcut icon" href="logo.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/logo.ico" type="image/x-icon">
     <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
@@ -19,11 +19,11 @@
         <div class="nav-wrapper container">
             <a id="logo-container" href="#" class="brand-logo">Redes Neuronales</a>
             <ul class="right hide-on-med-and-down">
-                <li><a href="index.html"><ion-icon size="large" name="home"></ion-icon></a></li>
+                <li><a href="index.php"><ion-icon size="large" name="home"></ion-icon></a></li>
             </ul>
 
             <ul id="nav-mobile" class="sidenav">
-                <li><a href="index.html"><ion-icon name="home"></ion-icon></a></li>
+                <li><a href="index.php"><ion-icon name="home"></ion-icon></a></li>
             </ul>
             <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
         </div>
